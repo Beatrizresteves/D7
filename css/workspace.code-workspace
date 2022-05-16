@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../FlexBoxForever"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FlexBoxForever"
+  }
+}
